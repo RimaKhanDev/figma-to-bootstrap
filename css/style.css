@@ -1,0 +1,44 @@
+/* all common css start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+/* all common css end */
+
+/* header part start */
+.nav-link{
+   font-family: "open sans",serif; 
+   color: #29313D;
+   font-size: 18px;
+   font-weight: 600;
+}
+.btn-contac{
+    padding: 20px 38px;
+    border-radius: 28px;
+    background:#8454F5;
+    color: #fff;
+    font-family: "Poppins", serif;
+}
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
+/* header part start */
+/* header part end */
