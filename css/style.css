@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6,p{
 }
 .navbar:hover{
  color: blueviolet;
- 
+
 }
 .nav-link{
    font-family: "open sans",serif; 
@@ -119,3 +119,9 @@ box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 /* munit part end */
 /* header part start */
 /* header part end */
+
+/* git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RimaKhanDev/Inovate.git
+git push -u origin main */
