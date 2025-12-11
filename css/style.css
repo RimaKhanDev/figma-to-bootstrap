@@ -189,14 +189,14 @@ box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 /* rima start */
 /* section background + spacing (change if your page has different bg) */
 #trusted {
-  background: #ffffff; /* change if needed */
+  background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
 }
 
 /* header typography */
 #trusted .display-6 {
-  font-size: 2.25rem; /* adjust to match figma */
+  font-size: 2.25rem; 
   line-height: 1.05;
   color: #212529;
 }
@@ -233,8 +233,8 @@ box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 
 /* center and size brand images */
 .brand-img {
-  max-height: 36px;  /* control logo height */
-  filter: grayscale(1) brightness(.25); /* subtle muted color like figma */
+  max-height: 36px;  
+  filter: grayscale(1) brightness(.25); 
   opacity: .95;
 }
 
